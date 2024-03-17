@@ -13,3 +13,6 @@ cargo run --bin PROGRAM_OF_YOUR_CHOICE ARGUMENTS
 - echo
 - ls
 - grrs
+
+### Arguments:
+Use -h or --help for specific usage guide.
