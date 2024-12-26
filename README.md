@@ -9,7 +9,7 @@ Common CLI utilities built with Rust.
 - Run the following command followed by the name of the program you want to run:
 
 ```bash
-cargo run --bin PROGRAM_OF_YOUR_CHOICE ARGUMENTS
+cargo run --bin PROGRAM_OF_CHOICE ARGUMENTS
 ```
 
 ### Programs:
